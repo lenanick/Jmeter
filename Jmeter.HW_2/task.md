@@ -1,4 +1,4 @@
-## Jmeter_2 HW
+## Jmeter.HW_2
 
 1. http://162.55.220.72:5005/user_info
 ```
