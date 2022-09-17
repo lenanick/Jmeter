@@ -67,9 +67,9 @@ Resp.
 
 ### Задание ***
 
-- [x] Изучать как работают Response Assertion.
-- [x] Сделать Assertion на провекрку статус код 200
-- [x] Сделать Assertion на провекрку 'daily_food':weight * 0.012
+- [x] Изучать как работают `Response Assertion`
+- [x] Сделать Assertion на провекрку статус `код 200`
+- [x] Сделать Assertion на провекрку `'daily_food':weight * 0.012`
 ===================
 
 4) http://162.55.220.72:5005/get_test_user
