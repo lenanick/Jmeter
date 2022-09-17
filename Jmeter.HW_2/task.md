@@ -25,21 +25,22 @@ resp.
 =========================================================================================
 
 2) http://162.55.220.72:5005/new_data
+```
 req.
 POST
 age: int
 salary: int
 name: str
 auth_token
-
+```
+```
 Resp.
 {'name':name,
   'age': int(age),
   'salary': [salary, str(salary*2), str(salary*3)]}
-
-Действия:
-1) Достать из Respose значение из поля 'name' и передать в поле name запроса http://162.55.220.72:5005/test_pet_info
-
+```
+### Действия:
+>Достать из `Respose` значение из поля `'name'` и передать в поле `name` запроса http://162.55.220.72:5005/test_pet_info
 ===================
 
 3) http://162.55.220.72:5005/test_pet_info
