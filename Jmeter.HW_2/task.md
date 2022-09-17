@@ -74,13 +74,15 @@ Resp.
 ========================================================================================
 
 4) http://162.55.220.72:5005/get_test_user
+```
 req.
 POST
 age: int
 salary: int
 name: str
 auth_token
-
+```
+```
 Resp.
 {'name': name,
  'age':age,
@@ -88,10 +90,10 @@ Resp.
  'family':{'children':[['Alex', 24],['Kate', 12]],
  'u_salary_1.5_year': salary * 4}
   }
+```
 
-Тесты:
-Задание ***
-0) Изучать как работают Response Assertion.
-1) Сделать Assertion на провекрку статус код 200
-2) Сделать Assertion на провекрку 'salary': salary
+### Задание ***
+- [x] Изучать как работают Response Assertion.
+- [x] Сделать Assertion на провекрку статус код 200
+- [x] Сделать Assertion на провекрку 'salary': salary
 
