@@ -1,2 +1,2 @@
 # Jmeter
-<img src = "https://sachsenhofer.io/wp-content/uploads/2018/06/apache-jmeter-white.png" height = 300>
+<img src = "https://www.devopsschool.com/blog/wp-content/uploads/2022/03/Jmeter.png" height = 300>
